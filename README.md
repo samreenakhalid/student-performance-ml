@@ -1,12 +1,12 @@
-# 📚 Student Performance Classification
+## 📚 Student Performance Classification
 
-This project uses *Linear Regression* to classify student performance as
-*Good* or *Needs Improvement* based on *study hours* and *attendance*.
+This project uses **Linear Regression** to classify student performance as
+**Good** or **Needs Improvement** based on **study hours** and **attendance**.
 
 ## ✨ Features
-- Uses *Python* and *scikit-learn *
-- Applies *Linear Regression* for prediction
-- Converts marks into *binary classes 0 & 1*
+- Uses **Python** and **scikit-learn**
+- Applies **Linear Regression** for prediction
+- Converts marks into **binary classes 0 & 1**
 - Evaluates model using:
   - Confusion Matrix 
   - Accuracy 
@@ -24,5 +24,5 @@ This project uses *Linear Regression* to classify student performance as
 2. Run the program:
 
 ## 📊 Output
-- Prints *evaluation metrics* in console
-- Shows *confusion matrix* and *metrics bar chart*
+- Prints **evaluation metrics** in console
+- Shows **confusion matrix** and **metrics bar chart**
